@@ -8,8 +8,8 @@ experiment, the data pipeline, and how the two scripts relate to each other.
 
 | File | Description |
 |---|---|
-| `Wang_Sec3_Lab7_Analysis_commented.m` | Analysis for the **large damping disc** configuration, 5 motor voltages |
-| `Wang_Sec3_Lab8_Analysis_commented.m` | Analysis for the **small paper plate** configuration, 11 motor voltages, plus an undamped "mass only" trial |
+| `disc_analysis.m` | Analysis for the **large damping disc** configuration, 5 motor voltages |
+| `plate_analysis.m` | Analysis for the **small paper plate** configuration, 11 motor voltages, plus an undamped "mass only" trial |
 | `partA*.txt`, `partB1-*.txt` | Lab 7 data: free (`A`) and driven (`B`) oscillation trials (not included here — see original data folder) |
 | `partf*.txt`, `partg*.txt` | Lab 8 data: free (`f1`–`f3`), driven (`f11`–`f1_11`), and undamped driven (`g1`–`g11`) trials |
 
